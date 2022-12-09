@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/education/static/css/main.facda228.css",
+    "main.js": "/education/static/js/main.270fff73.js",
+    "static/media/course-video.mp4": "/education/static/media/course-video.f3257b9e04f0b8148465.mp4",
+    "static/media/apply-bg.jpg": "/education/static/media/apply-bg.c4e62dba69de5c869ccf.jpg",
+    "static/media/meetings-page-bg.jpg": "/education/static/media/meetings-page-bg.df31bdd6868172d29e34.jpg",
+    "static/media/meetings-bg.jpg": "/education/static/media/meetings-bg.230aae3ec90cd5b9b42a.jpg",
+    "static/media/facts-bg.jpg": "/education/static/media/facts-bg.f2ba04b5ceed38959c36.jpg",
+    "static/media/meeting-04.jpg": "/education/static/media/meeting-04.7ca80fbd8af2b2038a4f.jpg",
+    "static/media/video-item-bg.jpg": "/education/static/media/video-item-bg.f0f236591ad2264ff986.jpg",
+    "static/media/meeting-03.jpg": "/education/static/media/meeting-03.709aca9d158b86278f09.jpg",
+    "static/media/meeting-02.jpg": "/education/static/media/meeting-02.f060a56a889c675f88fd.jpg",
+    "static/media/meeting-01.jpg": "/education/static/media/meeting-01.1e84912d474d22c6aac0.jpg",
+    "static/media/course-03.jpg": "/education/static/media/course-03.eb74a584c969be2c5b06.jpg",
+    "static/media/course-01.jpg": "/education/static/media/course-01.37c486a1d00db491a36e.jpg",
+    "static/media/course-04.jpg": "/education/static/media/course-04.2a4388d5434e2f6afed0.jpg",
+    "static/media/course-02.jpg": "/education/static/media/course-02.9c0c8a0d35ab2582a581.jpg",
+    "index.html": "/education/index.html",
+    "main.facda228.css.map": "/education/static/css/main.facda228.css.map",
+    "main.270fff73.js.map": "/education/static/js/main.270fff73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.facda228.css",
+    "static/js/main.270fff73.js"
+  ]
+}
