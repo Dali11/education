@@ -1,0 +1,13 @@
+.meeting{
+    background-image: url('../../images/meetings-page-bg.jpg');
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/* .cards-container{
+    background-image: url('../../images/meetings-bg.jpg');
+} */
+
+.cards{
+    border-radius: 40px;
+}
